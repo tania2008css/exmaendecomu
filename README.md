@@ -1,2 +1,2 @@
-# exmaendecomu
+# examendecomu
 examendecompu
